@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PublicHolidaysApp.props" />
+</Project>

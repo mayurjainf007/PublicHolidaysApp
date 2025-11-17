@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/PublicHolidaysApp/obj/Debug/net8.0/scopedcss/projectbundle/PublicHolidaysApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/PublicHolidaysApp.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/PublicHolidaysApp/wwwroot/ajax-client.html",
+      "PackagePath": "staticwebassets/ajax-client.html"
+    },
+    {
+      "Id": "/workspaces/PublicHolidaysApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/workspaces/PublicHolidaysApp/wwwroot/js/holidays-ajax.js",
+      "PackagePath": "staticwebassets/js/holidays-ajax.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PublicHolidaysApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PublicHolidaysApp.props",
+      "PackagePath": "build\\PublicHolidaysApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PublicHolidaysApp.props",
+      "PackagePath": "buildMultiTargeting\\PublicHolidaysApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PublicHolidaysApp.props",
+      "PackagePath": "buildTransitive\\PublicHolidaysApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
